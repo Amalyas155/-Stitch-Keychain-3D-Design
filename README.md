@@ -61,8 +61,7 @@ The model was created by starting with the main body sketch, followed by multipl
 
 🔗 **Onshape Project:**  
 
-https://cad.onshape.com/documents/6964126f6da503879728855f/w/557a542ff508c07726eddc18/e/c0877ebe9f05c1e7523dd175?renderMode=0&uiState=6a5a46616580edaf95e4b8d0
-
+https://cad.onshape.com/documents/6964126f6da503879728855f/w/557a542ff508c07726eddc18/e/c0877ebe9f05c1e7523dd175?renderMode=0&uiState=6a5a4aa26580edaf95e4c432
 ---
 
 ## Author
